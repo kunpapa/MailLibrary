@@ -1,0 +1,13 @@
+config:
+  #default email to send mails
+  mailTo: youremail@gmail.com
+  #Name of the mail owner
+  senderName: Your Network Name
+  #info about your email server, gmail by default
+  host: smtp.gmail.com
+  port: 587
+  #your account info
+  emailAccount: youremail@gmail.com
+  emailPassword: myPassword
+metrics:
+  enabled: true

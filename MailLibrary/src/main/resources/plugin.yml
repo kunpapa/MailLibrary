@@ -1,0 +1,8 @@
+name: MailLibrary
+version: 1.0.0-SNAPSHOT
+main: net.deadplayers.maillibrary.MailLibrary
+authors: [kunpapa]
+commands:
+   maillibrary:
+      description: Help from this plugin
+      usage: /maillibrary
